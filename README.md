@@ -6,7 +6,7 @@
 
 <h4 align="left">Welcome to my Github Profile!🙋🏽‍♀️ </h4>
 
-- 🔭 I’m currently working on **Bimser Çözüm**
+- 🔭 I’m currently working at **Bimser Çözüm**
 
 - 🌱 I'm currently developing myself in **Java and JavaScript**
 
