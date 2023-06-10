@@ -1,7 +1,7 @@
 <h1 align="center"> Hello I'm Onur<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"> </h1>
 <h3 align="center">Software Developer In Test</h3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/35347777/144943077-952d450d-6d68-4135-8099-3dc8b589b761.gif" alt="@onurerdemiroglu" height="300" width="400" />
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="@onurerdemiroglu" height="300" width="600" />
  </p>
 
 <h4 align="left">Welcome to my Github Profile!🙋🏽‍♀️ </h4>
